@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../realtime_drawing"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Font Manipulater"
+	}
+}
